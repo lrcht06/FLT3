@@ -56,7 +56,7 @@ This portfolio demonstrates the application of **MySQL Table Manipulation techni
 - ### Table 1
 ![screenshot](images/FLT3(tbl1).png)
 - ### Table 2
-![screenshot](images/FLT3(tbl2).png)
+![screenshot](images/FLT3(tbl1).png)
 - ### Table 3
 ![screenshot](images/FLT3(tbl3).png)
 - ### Table 4
