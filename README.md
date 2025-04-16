@@ -70,7 +70,7 @@ This portfolio demonstrates the application of **MySQL Table Manipulation techni
 ---
 
 ## SQL Copy (File)
-> 📂 Upload the SQL file here (e.g., `table_manipulation_db.sql`)
+> 📂 
 
 ---
 
