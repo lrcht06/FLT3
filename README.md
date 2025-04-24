@@ -1,5 +1,5 @@
 # Finals Lab Task 3
-This portfolio demonstrates the application of **MySQL Table Manipulation techniques**, including modifications to existing tables using `ALTER` statements. The tasks are based on applying structural changes to the database through column additions, deletions, modifications, and constraints.
+This portfolio demonstrates the application of **MySQL Table Manipulation techniques**, including modifications to existing tables using ALTER statements. The tasks are based on applying structural changes to the database through column additions, deletions, modifications, and constraints.
 
 ---
 
@@ -9,7 +9,7 @@ This portfolio demonstrates the application of **MySQL Table Manipulation techni
 
 ### STEP 2. Open or create a database to apply table manipulation commands.
 
-### STEP 3. For each of the following tasks, write and execute the appropriate `ALTER TABLE` query:
+### STEP 3. For each of the following tasks, write and execute the appropriate ALTER TABLE query:
 
 > All tasks will be performed on the `product` table, which includes columns such as `product_id`, `product_name`, and `price`.
 
