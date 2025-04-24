@@ -1,5 +1,3 @@
----
-
 # Finals Lab Task 3
 This portfolio demonstrates the application of **MySQL Table Manipulation techniques**, including modifications to existing tables using `ALTER` statements. The tasks are based on applying structural changes to the database through column additions, deletions, modifications, and constraints.
 
